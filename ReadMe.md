@@ -15,6 +15,6 @@ Hello, I'm JJ, a software and knowledge engineering student at Kasetsart Univers
 ![](https://github-trophies.vercel.app/?username=Jwizzed&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Life Quote
-`I am trying to make a thing that people must have, not good to have`
+`I am trying to make a thing that people must have, not just good to have`
 ---
 [![](https://visitcount.itsvg.in/api?id=Jwizzed&icon=0&color=6)](https://visitcount.itsvg.in)
