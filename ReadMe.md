@@ -1,12 +1,14 @@
 # 💫 About Me :
 Hello, I'm JJ, a software and knowledge engineering student at Kasetsart University. My main areas of interest revolve around AI, machine learning, and data processing.
+<br>
+I have worked on NLP projects before. Now I am focusing on Computer Vision. This is my <a href="https://github.com/Jwizzed/ml-journey">learning journey</a> in these fields. 
 
 ## 🌐 Socials
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jwizzed_70966)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Jwizzed#9099) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krittin_Setdhavanich) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jjkrittin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jwizzed)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jwizzed_70966)
 
 
 # 💻 Tech Stack
