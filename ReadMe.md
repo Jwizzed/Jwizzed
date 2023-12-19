@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hello, I'm JJ, a software and knowledge engineering student at Kasetsart University. My main areas of interest revolve around AI, machine learning, and data processing. <br>I have worked on NLP projects before. Now I am focusing on Computer Vision. This is my <a href="https://github.com/Jwizzed/ml-journey/tree/main/Datasets">learning journey</a> in these fields.
+Hello, I'm JJ, a software and knowledge engineering student at Kasetsart University. My main areas of interest revolve around AI and Machine learning. <br>I have worked on NLP projects before. Now I am focusing on Computer Vision. This is my <a href="https://github.com/Jwizzed/ml-journey/tree/main/Datasets">learning journey</a> in these fields.
 
 
 ## 🌐 Socials:
