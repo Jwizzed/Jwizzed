@@ -1,9 +1,10 @@
 > "My life's a marathon. I run my own pace, your goals aren't mine."
 
 
-# 💫 About Me:
-Hello, I'm JJ, a software and knowledge engineering student at Kasetsart University. My main areas of interest revolve around AI and Machine learning. <br>I have worked on NLP projects before. Now I am focusing on Computer Vision. This is my <a href="https://github.com/Jwizzed/ml-journey/tree/main/Datasets">learning journey</a> in these fields.
+# 💫 About Me
+Hello, I'm JJ, a Software and Knowledge Engineering student at Kasetsart University. I'm interested in AI and Machine Learning. 
 
+I've worked on NLP projects and am now focusing on Computer Vision. Check out my [learning journey](https://github.com/Jwizzed/ml-journey/tree/main/Datasets) in these fields.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jwizzed_70966) 
