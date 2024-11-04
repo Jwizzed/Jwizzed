@@ -1,7 +1,7 @@
 > "My life's a marathon. I run my own pace, your goals aren't mine."
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://images8.alphacoders.com/137/thumb-1920-1378050.png" align="center" style="width: 100%" />
 </div>  
   
 
